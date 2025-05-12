@@ -2,4 +2,4 @@
 
 Goal: Predict CPI using ARIMA
 
-Results: Unemployment and CPI correlation: -0.6
+Results: Unemployment and CPI correlation:
